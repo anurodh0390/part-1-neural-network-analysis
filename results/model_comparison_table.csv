@@ -1,0 +1,5 @@
+Configuration,Accuracy (%)
+"Base (16, ReLU, 0.001)",97.75
+"Deeper (32, 16)",98.75
+High LR (0.1),98.0
+Tanh Activation,98.25
